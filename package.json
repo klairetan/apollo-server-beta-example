@@ -1,0 +1,16 @@
+{
+  "name": "onboarding-test",
+  "version": "1.0.0",
+  "description": "test schema upload for new Engine onboarding flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "klaire",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.0.0-beta.11",
+    "graphql": "^0.13.2"
+  },
+}
